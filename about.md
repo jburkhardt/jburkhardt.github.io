@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## About ##
-
 M.Sc. Economics  
 R Developer  
 Online Marketing Expert
