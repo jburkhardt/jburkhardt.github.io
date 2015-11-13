@@ -10,8 +10,8 @@ Online Marketing Expert
 
 ### R Packages ###
 
-#### [RAdwords]( http://jburkhardt.github.io/RAdwords) ####
-#### [RCriteo]( http://jburkhardt.github.io/RCriteo) ####
+#### [RAdwords](http://jburkhardt.github.io/RAdwords) ####
+#### [RCriteo](http://jburkhardt.github.io/RCriteo) ####
 
 ### Contact me
 
