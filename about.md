@@ -7,11 +7,12 @@ permalink: /about/
 M.Sc. Economics  
 R Developer  
 Online Marketing Expert
+Surfer and Skateboarder
 
-### R Packages ###
+### R Packages
 
-#### [RAdwords](http://jburkhardt.github.io/RAdwords) ####
-#### [RCriteo](http://jburkhardt.github.io/RCriteo) ####
+#### [RAdwords](http://jburkhardt.github.io/RAdwords)
+#### [RCriteo](http://jburkhardt.github.io/RCriteo)
 
 ### Contact me
 
