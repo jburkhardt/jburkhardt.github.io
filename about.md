@@ -21,4 +21,4 @@ Surfer and Skateboarder
 
 ### Contact me
 
-<sup>johannes.burkhardt(@)gmail.com<sup>
+johannes.burkhardt(@)gmail.com
