@@ -11,8 +11,9 @@ Surfer and Skateboarder
 
 ### R Package Development
 
-[RAdwords](http://jburkhardt.github.io/RAdwords)  
-[RCriteo](http://jburkhardt.github.io/RCriteo)
+[RAdwords](https://github.com/jburkhardt/RAdwords)  
+[RCriteo](https://github.com/jburkhardt/RCriteo)
+[RSmartlyIO](https://github.com/rstats-lab/RSmartlyIO)  
 
 ### Google Adwords
 
