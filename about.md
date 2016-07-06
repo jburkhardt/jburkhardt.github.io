@@ -16,7 +16,7 @@ Surfer and Skateboarder
 [RSmartlyIO](https://github.com/rstats-lab/RSmartlyIO)  
 
 
-### Google Adwords
+### Google
 
 [Google Dynamic Search Ads Case Study](https://storage.googleapis.com/support-kms-prod/SNP_A9FDD4D92EA2A32DD341807F7911B06E9216_3248210_en_v0)
 
